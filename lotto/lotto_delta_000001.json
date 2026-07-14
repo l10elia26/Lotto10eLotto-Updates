@@ -1,0 +1,138 @@
+{
+  "deltaProgressive" : 1,
+  "drawDate" : "2026-07-14",
+  "drawId" : "lotto-2026-07-14",
+  "extraction" : {
+    "wheels" : [
+      {
+        "code" : "BA",
+        "name" : "Bari",
+        "numbers" : [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "code" : "CA",
+        "name" : "Cagliari",
+        "numbers" : [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "code" : "FI",
+        "name" : "Firenze",
+        "numbers" : [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "code" : "GE",
+        "name" : "Genova",
+        "numbers" : [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "code" : "MI",
+        "name" : "Milano",
+        "numbers" : [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "code" : "NA",
+        "name" : "Napoli",
+        "numbers" : [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "code" : "PA",
+        "name" : "Palermo",
+        "numbers" : [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "code" : "RO",
+        "name" : "Roma",
+        "numbers" : [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "code" : "TO",
+        "name" : "Torino",
+        "numbers" : [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "code" : "VE",
+        "name" : "Venezia",
+        "numbers" : [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "code" : "NZ",
+        "name" : "Nazionale",
+        "numbers" : [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  "formatVersion" : 1,
+  "game" : "Lotto",
+  "generatedAt" : "2026-07-14T15:57:35.459Z",
+  "sync" : {
+    "idempotent" : true,
+    "operation" : "insert",
+    "targetDatabase" : "Lotto10eLottoAI.sqlite"
+  }
+}
