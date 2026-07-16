@@ -1,0 +1,25 @@
+{
+  "checksums" : {
+    "10elotto_delta_000002.json" : {
+      "algorithm" : "SHA-256",
+      "value" : "d991dc107ce3aa91758b391690d9cc129a96e2c1f58060eeb6a54d519ec5bfa4"
+    },
+    "lotto_delta_000002.json" : {
+      "algorithm" : "SHA-256",
+      "value" : "c779c26e821c7c9c22b3aeea79c26ed4561e1d06517b80802f4204d449d26d85"
+    }
+  },
+  "database" : "Lotto10eLottoAI.sqlite",
+  "formatVersion" : 1,
+  "latestDrawDate" : "2026-07-16",
+  "latestFiles" : {
+    "10eLotto" : "10elotto_delta_000002.json",
+    "lotto" : "lotto_delta_000002.json"
+  },
+  "latestProgressive" : 2,
+  "synchronization" : {
+    "rejectDuplicateDrawId" : true,
+    "strategy" : "incremental-delta"
+  },
+  "updatedAt" : "2026-07-16T18:58:38.548Z"
+}
