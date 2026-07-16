@@ -1,0 +1,65 @@
+{
+  "deltaProgressive" : 2,
+  "drawDate" : "2026-07-16",
+  "drawId" : "10elotto-2026-07-16",
+  "extraction" : {
+    "doubleGoldNumber" : 32,
+    "doubleGoldNumbers" : [
+      2,
+      32
+    ],
+    "extraNumbers" : [
+      6,
+      16,
+      25,
+      34,
+      38,
+      46,
+      57,
+      60,
+      62,
+      64,
+      66,
+      81,
+      85,
+      88,
+      89
+    ],
+    "extraSource" : "officialLinkedLottoRule",
+    "generationRuleVersion" : "adm-linked-lotto-v3",
+    "goldNumber" : 2,
+    "nationalWheelExcluded" : true,
+    "numbers" : [
+      1,
+      2,
+      8,
+      10,
+      12,
+      15,
+      17,
+      18,
+      23,
+      27,
+      32,
+      36,
+      43,
+      45,
+      63,
+      72,
+      76,
+      78,
+      80,
+      86
+    ],
+    "secondGoldNumber" : 32,
+    "sourceWheels" : "ten-city-wheels-column-major"
+  },
+  "formatVersion" : 1,
+  "game" : "10eLotto",
+  "generatedAt" : "2026-07-16T18:58:38.548Z",
+  "sync" : {
+    "idempotent" : true,
+    "operation" : "insert",
+    "targetDatabase" : "Lotto10eLottoAI.sqlite"
+  }
+}
