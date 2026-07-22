@@ -60,7 +60,7 @@
     ]
   },
   "formatVersion" : 1,
-  "latestDrawDate" : "2026-07-22",
+  "latestDrawDate" : "2026-07-21",
   "latestFiles" : {
     "10eLotto" : "10elotto_delta_000005.json",
     "lotto" : "lotto_delta_000005.json"
@@ -80,7 +80,7 @@
     "strategy" : "incremental-delta"
   },
   "totalUpdates" : 5,
-  "updatedAt" : "2026-07-22T10:30:57.817Z",
+  "updatedAt" : "2026-07-21T10:30:57.817Z",
   "updates" : [
     {
       "checksums" : {
@@ -178,12 +178,12 @@
         }
       },
       "complete" : 1,
-      "drawDate" : "2026-07-22",
+      "drawDate" : "2026-07-21",
       "files" : {
         "10eLotto" : "10elotto_delta_000005.json",
         "lotto" : "lotto_delta_000005.json"
       },
-      "generatedAt" : "2026-07-22T10:30:57.817Z",
+      "generatedAt" : "2026-07-21T10:30:57.817Z",
       "progressive" : 5,
       "progressiveString" : "000005"
     }
