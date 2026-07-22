@@ -129,7 +129,7 @@
   },
   "formatVersion" : 1,
   "game" : "Lotto",
-  "generatedAt" : "2026-07-21T10:30:57.817Z",
+  "generatedAt" : "2026-07-22T10:57:12.565Z",
   "sync" : {
     "idempotent" : true,
     "operation" : "insert",
