@@ -1,7 +1,7 @@
 {
   "deltaProgressive" : 5,
-  "drawDate" : "2026-07-22",
-  "drawId" : "10elotto-2026-07-22",
+  "drawDate" : "2026-07-21",
+  "drawId" : "10elotto-2026-07-21",
   "extraction" : {
     "doubleGoldNumber" : 78,
     "doubleGoldNumbers" : [
@@ -56,7 +56,7 @@
   },
   "formatVersion" : 1,
   "game" : "10eLotto",
-  "generatedAt" : "2026-07-22T10:30:57.817Z",
+  "generatedAt" : "2026-07-21T10:30:57.817Z",
   "sync" : {
     "idempotent" : true,
     "operation" : "insert",
