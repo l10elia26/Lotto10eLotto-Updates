@@ -1,0 +1,138 @@
+{
+  "deltaProgressive" : 8,
+  "drawDate" : "2026-07-25",
+  "drawId" : "lotto-2026-07-25",
+  "extraction" : {
+    "wheels" : [
+      {
+        "code" : "BA",
+        "name" : "Bari",
+        "numbers" : [
+          86,
+          66,
+          30,
+          1,
+          25
+        ]
+      },
+      {
+        "code" : "CA",
+        "name" : "Cagliari",
+        "numbers" : [
+          14,
+          36,
+          79,
+          7,
+          51
+        ]
+      },
+      {
+        "code" : "FI",
+        "name" : "Firenze",
+        "numbers" : [
+          89,
+          41,
+          87,
+          30,
+          23
+        ]
+      },
+      {
+        "code" : "GE",
+        "name" : "Genova",
+        "numbers" : [
+          29,
+          11,
+          35,
+          57,
+          66
+        ]
+      },
+      {
+        "code" : "MI",
+        "name" : "Milano",
+        "numbers" : [
+          19,
+          28,
+          31,
+          27,
+          47
+        ]
+      },
+      {
+        "code" : "NA",
+        "name" : "Napoli",
+        "numbers" : [
+          3,
+          23,
+          61,
+          12,
+          65
+        ]
+      },
+      {
+        "code" : "PA",
+        "name" : "Palermo",
+        "numbers" : [
+          61,
+          90,
+          47,
+          56,
+          34
+        ]
+      },
+      {
+        "code" : "RO",
+        "name" : "Roma",
+        "numbers" : [
+          22,
+          26,
+          48,
+          50,
+          44
+        ]
+      },
+      {
+        "code" : "TO",
+        "name" : "Torino",
+        "numbers" : [
+          62,
+          75,
+          23,
+          15,
+          13
+        ]
+      },
+      {
+        "code" : "VE",
+        "name" : "Venezia",
+        "numbers" : [
+          80,
+          25,
+          84,
+          49,
+          61
+        ]
+      },
+      {
+        "code" : "NZ",
+        "name" : "Nazionale",
+        "numbers" : [
+          23,
+          76,
+          80,
+          55,
+          46
+        ]
+      }
+    ]
+  },
+  "formatVersion" : 1,
+  "game" : "Lotto",
+  "generatedAt" : "2026-07-25T18:25:51.985Z",
+  "sync" : {
+    "idempotent" : true,
+    "operation" : "insert",
+    "targetDatabase" : "Lotto10eLottoAI.sqlite"
+  }
+}
