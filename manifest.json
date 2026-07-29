@@ -32,6 +32,10 @@
       "algorithm" : "SHA-256",
       "value" : "2e22002ff5473acd3b19491efb5ae79defa214699c21ac499b30c6f8e6ac71fc"
     },
+    "10elotto_delta_000009.json" : {
+      "algorithm" : "SHA-256",
+      "value" : "8bb375f4e6ab09c91f2754ce576a58d856d9a94fed837223778c5b327649d008"
+    },
     "lotto_delta_000001.json" : {
       "algorithm" : "SHA-256",
       "value" : "c8ee547e1ed51c2e1b6d503182fda0552b6bec2b117b6023a0259f412471ff13"
@@ -63,6 +67,10 @@
     "lotto_delta_000008.json" : {
       "algorithm" : "SHA-256",
       "value" : "791f282bb0c2fe6411a8c5b48346870b1e5d07e7fbaffb2b939bb10bd159f370"
+    },
+    "lotto_delta_000009.json" : {
+      "algorithm" : "SHA-256",
+      "value" : "8f6c6106765dc0b13b0b686a0512d150b5c1a90679e77dd6fcfb8d671e13a48e"
     }
   },
   "createdAt" : "2026-07-18T17:57:04.672Z",
@@ -76,7 +84,8 @@
       "10elotto_delta_000005.json",
       "10elotto_delta_000006.json",
       "10elotto_delta_000007.json",
-      "10elotto_delta_000008.json"
+      "10elotto_delta_000008.json",
+      "10elotto_delta_000009.json"
     ],
     "lotto" : [
       "lotto_delta_000001.json",
@@ -86,16 +95,17 @@
       "lotto_delta_000005.json",
       "lotto_delta_000006.json",
       "lotto_delta_000007.json",
-      "lotto_delta_000008.json"
+      "lotto_delta_000008.json",
+      "lotto_delta_000009.json"
     ]
   },
   "formatVersion" : 1,
-  "latestDrawDate" : "2026-07-25",
+  "latestDrawDate" : "2026-07-29",
   "latestFiles" : {
-    "10eLotto" : "10elotto_delta_000008.json",
-    "lotto" : "lotto_delta_000008.json"
+    "10eLotto" : "10elotto_delta_000009.json",
+    "lotto" : "lotto_delta_000009.json"
   },
-  "latestProgressive" : 8,
+  "latestProgressive" : 9,
   "manifestType" : "incremental-update-index",
   "synchronization" : {
     "availableProgressives" : [
@@ -106,14 +116,15 @@
       5,
       6,
       7,
-      8
+      8,
+      9
     ],
-    "nextProgressive" : 9,
+    "nextProgressive" : 10,
     "rejectDuplicateDrawId" : true,
     "strategy" : "incremental-delta"
   },
-  "totalUpdates" : 8,
-  "updatedAt" : "2026-07-25T18:25:51.985Z",
+  "totalUpdates" : 9,
+  "updatedAt" : "2026-07-29T10:11:40.487Z",
   "updates" : [
     {
       "checksums" : {
@@ -282,6 +293,27 @@
       "generatedAt" : "2026-07-25T18:25:51.985Z",
       "progressive" : 8,
       "progressiveString" : "000008"
+    },
+    {
+      "checksums" : {
+        "10elotto_delta_000009.json" : {
+          "algorithm" : "SHA-256",
+          "value" : "8bb375f4e6ab09c91f2754ce576a58d856d9a94fed837223778c5b327649d008"
+        },
+        "lotto_delta_000009.json" : {
+          "algorithm" : "SHA-256",
+          "value" : "8f6c6106765dc0b13b0b686a0512d150b5c1a90679e77dd6fcfb8d671e13a48e"
+        }
+      },
+      "complete" : 1,
+      "drawDate" : "2026-07-29",
+      "files" : {
+        "10eLotto" : "10elotto_delta_000009.json",
+        "lotto" : "lotto_delta_000009.json"
+      },
+      "generatedAt" : "2026-07-29T10:11:40.487Z",
+      "progressive" : 9,
+      "progressiveString" : "000009"
     }
   ]
 }
