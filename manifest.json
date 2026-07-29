@@ -34,7 +34,7 @@
     },
     "10elotto_delta_000009.json" : {
       "algorithm" : "SHA-256",
-      "value" : "8bb375f4e6ab09c91f2754ce576a58d856d9a94fed837223778c5b327649d008"
+      "value" : "55b1afd8e35e0fa926edb3b3aff3311512375595a68fc2c650ac51637f850ff0"
     },
     "lotto_delta_000001.json" : {
       "algorithm" : "SHA-256",
@@ -70,7 +70,7 @@
     },
     "lotto_delta_000009.json" : {
       "algorithm" : "SHA-256",
-      "value" : "8f6c6106765dc0b13b0b686a0512d150b5c1a90679e77dd6fcfb8d671e13a48e"
+      "value" : "632cb911422fadf8b7770072f8d6f27e0a3d03171abf643b49f59a01afb4be8e"
     }
   },
   "createdAt" : "2026-07-18T17:57:04.672Z",
@@ -100,7 +100,7 @@
     ]
   },
   "formatVersion" : 1,
-  "latestDrawDate" : "2026-07-29",
+  "latestDrawDate" : "2026-07-28",
   "latestFiles" : {
     "10eLotto" : "10elotto_delta_000009.json",
     "lotto" : "lotto_delta_000009.json"
@@ -124,7 +124,7 @@
     "strategy" : "incremental-delta"
   },
   "totalUpdates" : 9,
-  "updatedAt" : "2026-07-29T10:11:40.487Z",
+  "updatedAt" : "2026-07-29T10:32:27.937Z",
   "updates" : [
     {
       "checksums" : {
@@ -298,20 +298,20 @@
       "checksums" : {
         "10elotto_delta_000009.json" : {
           "algorithm" : "SHA-256",
-          "value" : "8bb375f4e6ab09c91f2754ce576a58d856d9a94fed837223778c5b327649d008"
+          "value" : "55b1afd8e35e0fa926edb3b3aff3311512375595a68fc2c650ac51637f850ff0"
         },
         "lotto_delta_000009.json" : {
           "algorithm" : "SHA-256",
-          "value" : "8f6c6106765dc0b13b0b686a0512d150b5c1a90679e77dd6fcfb8d671e13a48e"
+          "value" : "632cb911422fadf8b7770072f8d6f27e0a3d03171abf643b49f59a01afb4be8e"
         }
       },
       "complete" : 1,
-      "drawDate" : "2026-07-29",
+      "drawDate" : "2026-07-28",
       "files" : {
         "10eLotto" : "10elotto_delta_000009.json",
         "lotto" : "lotto_delta_000009.json"
       },
-      "generatedAt" : "2026-07-29T10:11:40.487Z",
+      "generatedAt" : "2026-07-29T10:32:27.937Z",
       "progressive" : 9,
       "progressiveString" : "000009"
     }
