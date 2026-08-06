@@ -36,6 +36,22 @@
       "algorithm" : "SHA-256",
       "value" : "55b1afd8e35e0fa926edb3b3aff3311512375595a68fc2c650ac51637f850ff0"
     },
+    "10elotto_delta_000010.json" : {
+      "algorithm" : "SHA-256",
+      "value" : "7633465664f2d61014c1accb8504aac4a1e851b2dd11d2d8512e33fac41eeb07"
+    },
+    "10elotto_delta_000011.json" : {
+      "algorithm" : "SHA-256",
+      "value" : "fdc4f9e43adab734afcf725e2c4c8391c66fc58105523c22f55be8b68c88358f"
+    },
+    "10elotto_delta_000012.json" : {
+      "algorithm" : "SHA-256",
+      "value" : "9d3b1f9c0711b31284838810993b8e493ad921d94be7ae5c71b4a1a6ab29b5ff"
+    },
+    "10elotto_delta_000013.json" : {
+      "algorithm" : "SHA-256",
+      "value" : "d77c716c1603ff23d5b5875d7c139435c19af562f1e70206bf9207433474a5a5"
+    },
     "lotto_delta_000001.json" : {
       "algorithm" : "SHA-256",
       "value" : "c8ee547e1ed51c2e1b6d503182fda0552b6bec2b117b6023a0259f412471ff13"
@@ -71,6 +87,22 @@
     "lotto_delta_000009.json" : {
       "algorithm" : "SHA-256",
       "value" : "632cb911422fadf8b7770072f8d6f27e0a3d03171abf643b49f59a01afb4be8e"
+    },
+    "lotto_delta_000010.json" : {
+      "algorithm" : "SHA-256",
+      "value" : "7fd1ff8c7fbc0d99778e25e2f93acd34621a4f88fd1663bf51bd522c3205d758"
+    },
+    "lotto_delta_000011.json" : {
+      "algorithm" : "SHA-256",
+      "value" : "c56907c3a17ae9e74719965c83456544f539569858f8f745380c6f0806222b82"
+    },
+    "lotto_delta_000012.json" : {
+      "algorithm" : "SHA-256",
+      "value" : "500ec9a49ef7c534d51560f937e9003822177c326e6f882864d7632b1fbe9704"
+    },
+    "lotto_delta_000013.json" : {
+      "algorithm" : "SHA-256",
+      "value" : "cb2e4982504970eb54ca92b4d8097e08b0a0aeffaf0fb9454f1c24585fde09ee"
     }
   },
   "createdAt" : "2026-07-18T17:57:04.672Z",
@@ -85,7 +117,11 @@
       "10elotto_delta_000006.json",
       "10elotto_delta_000007.json",
       "10elotto_delta_000008.json",
-      "10elotto_delta_000009.json"
+      "10elotto_delta_000009.json",
+      "10elotto_delta_000010.json",
+      "10elotto_delta_000011.json",
+      "10elotto_delta_000012.json",
+      "10elotto_delta_000013.json"
     ],
     "lotto" : [
       "lotto_delta_000001.json",
@@ -96,16 +132,20 @@
       "lotto_delta_000006.json",
       "lotto_delta_000007.json",
       "lotto_delta_000008.json",
-      "lotto_delta_000009.json"
+      "lotto_delta_000009.json",
+      "lotto_delta_000010.json",
+      "lotto_delta_000011.json",
+      "lotto_delta_000012.json",
+      "lotto_delta_000013.json"
     ]
   },
   "formatVersion" : 1,
-  "latestDrawDate" : "2026-07-28",
+  "latestDrawDate" : "2026-08-04",
   "latestFiles" : {
-    "10eLotto" : "10elotto_delta_000009.json",
-    "lotto" : "lotto_delta_000009.json"
+    "10eLotto" : "10elotto_delta_000013.json",
+    "lotto" : "lotto_delta_000013.json"
   },
-  "latestProgressive" : 9,
+  "latestProgressive" : 13,
   "manifestType" : "incremental-update-index",
   "synchronization" : {
     "availableProgressives" : [
@@ -117,14 +157,18 @@
       6,
       7,
       8,
-      9
+      9,
+      10,
+      11,
+      12,
+      13
     ],
-    "nextProgressive" : 10,
+    "nextProgressive" : 14,
     "rejectDuplicateDrawId" : true,
     "strategy" : "incremental-delta"
   },
-  "totalUpdates" : 9,
-  "updatedAt" : "2026-07-29T10:32:27.937Z",
+  "totalUpdates" : 13,
+  "updatedAt" : "2026-08-06T09:44:50.112Z",
   "updates" : [
     {
       "checksums" : {
@@ -314,6 +358,90 @@
       "generatedAt" : "2026-07-29T10:32:27.937Z",
       "progressive" : 9,
       "progressiveString" : "000009"
+    },
+    {
+      "checksums" : {
+        "10elotto_delta_000010.json" : {
+          "algorithm" : "SHA-256",
+          "value" : "7633465664f2d61014c1accb8504aac4a1e851b2dd11d2d8512e33fac41eeb07"
+        },
+        "lotto_delta_000010.json" : {
+          "algorithm" : "SHA-256",
+          "value" : "7fd1ff8c7fbc0d99778e25e2f93acd34621a4f88fd1663bf51bd522c3205d758"
+        }
+      },
+      "complete" : 1,
+      "drawDate" : "2026-07-30",
+      "files" : {
+        "10eLotto" : "10elotto_delta_000010.json",
+        "lotto" : "lotto_delta_000010.json"
+      },
+      "generatedAt" : "2026-08-06T09:25:13.902Z",
+      "progressive" : 10,
+      "progressiveString" : "000010"
+    },
+    {
+      "checksums" : {
+        "10elotto_delta_000011.json" : {
+          "algorithm" : "SHA-256",
+          "value" : "fdc4f9e43adab734afcf725e2c4c8391c66fc58105523c22f55be8b68c88358f"
+        },
+        "lotto_delta_000011.json" : {
+          "algorithm" : "SHA-256",
+          "value" : "c56907c3a17ae9e74719965c83456544f539569858f8f745380c6f0806222b82"
+        }
+      },
+      "complete" : 1,
+      "drawDate" : "2026-07-31",
+      "files" : {
+        "10eLotto" : "10elotto_delta_000011.json",
+        "lotto" : "lotto_delta_000011.json"
+      },
+      "generatedAt" : "2026-08-06T09:31:38.571Z",
+      "progressive" : 11,
+      "progressiveString" : "000011"
+    },
+    {
+      "checksums" : {
+        "10elotto_delta_000012.json" : {
+          "algorithm" : "SHA-256",
+          "value" : "9d3b1f9c0711b31284838810993b8e493ad921d94be7ae5c71b4a1a6ab29b5ff"
+        },
+        "lotto_delta_000012.json" : {
+          "algorithm" : "SHA-256",
+          "value" : "500ec9a49ef7c534d51560f937e9003822177c326e6f882864d7632b1fbe9704"
+        }
+      },
+      "complete" : 1,
+      "drawDate" : "2026-08-01",
+      "files" : {
+        "10eLotto" : "10elotto_delta_000012.json",
+        "lotto" : "lotto_delta_000012.json"
+      },
+      "generatedAt" : "2026-08-06T09:38:09.181Z",
+      "progressive" : 12,
+      "progressiveString" : "000012"
+    },
+    {
+      "checksums" : {
+        "10elotto_delta_000013.json" : {
+          "algorithm" : "SHA-256",
+          "value" : "d77c716c1603ff23d5b5875d7c139435c19af562f1e70206bf9207433474a5a5"
+        },
+        "lotto_delta_000013.json" : {
+          "algorithm" : "SHA-256",
+          "value" : "cb2e4982504970eb54ca92b4d8097e08b0a0aeffaf0fb9454f1c24585fde09ee"
+        }
+      },
+      "complete" : 1,
+      "drawDate" : "2026-08-04",
+      "files" : {
+        "10eLotto" : "10elotto_delta_000013.json",
+        "lotto" : "lotto_delta_000013.json"
+      },
+      "generatedAt" : "2026-08-06T09:44:50.112Z",
+      "progressive" : 13,
+      "progressiveString" : "000013"
     }
   ]
 }
